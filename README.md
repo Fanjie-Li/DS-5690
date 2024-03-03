@@ -27,9 +27,9 @@ The major goal of this paper is to train an AI assistant that is both <ins>harml
 <br></br>
 
 > **What's Different:** Principle-Guided AI Comparison Evaluations
+<img width="1502" alt="self_eval" src="https://github.com/Fanjie-Li/DS-5690/assets/36987602/e64c7d92-dc0a-4ac9-bcc3-5983f159ba4c">
 
-
-## Critical analysis
+## Questions & Critical analysis
 
 ## Resources
 | ⌨️       | Code       |
