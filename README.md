@@ -13,6 +13,8 @@ The major goal of this paper is to train an AI assistant that is both <ins>harml
 | Human feedback is costly! | **Scalable oversight** <br>(reduce reliance on manual feedback) <ul><li>Self-correction ("post-hoc prompting")</li> <li>Reinforcement learning from AI Feedback (RLAIF)</li></ul> |
 
 ## Architecture overview
+![pipeline](https://github.com/Fanjie-Li/DS-5690/assets/36987602/9c4f873c-cf7c-40d5-bb79-50d451636f51)
+Image ©️ 2023 Anthropic
 ### 1-`Supervised Learning Stage`
 > Critique ➔ Revision ➔ Supervised Learning
 <img width="840" alt="SL-CAI" src="https://github.com/Fanjie-Li/DS-5690/assets/36987602/70cd09c1-8d1c-4da6-a14b-ad5a0d8dbe33">
@@ -91,8 +93,20 @@ The major goal of this paper is to train an AI assistant that is both <ins>harml
 </details>
 
 ## Resources
-| ⌨️       | Code       |
+| ⌨️       |Code / Demo|
 |---------|:-----------|
 
 Bai, Y., Kadavath, S., Kundu, S., Askell, A., Kernion, J., Jones, A., ... & Kaplan, J. (2022). [Constitutional AI: Harmlessness from AI feedback](https://arxiv.org/pdf/2212.08073.pdf?trk=public_post_comment-text). arXiv preprint arXiv:2212.08073.
-- [Github repository](https://github.com/anthropics/ConstitutionalHarmlessnessPaper/tree/main)
+- Github [repo](https://github.com/anthropics/ConstitutionalHarmlessnessPaper/tree/main)
+- Tutorial: Using Constitutional AI in LangChain〔[YouTube](https://www.youtube.com/watch?v=uoVqNFDwpX4)〕〔[Colab](https://colab.research.google.com/drive/1fTzx5ssGstX5yX8ig8PDjNElVPfTXRPN?usp=sharing)〕〔[LangChain](https://js.langchain.com/docs/modules/chains/additional/constitutional_chain)〕
+- 🎥 Claude (CAI) vs ChatGPT [demo](https://www.youtube.com/watch?v=KB5r9xmrQBY)
+- HuggingFace [demo](https://huggingface.co/spaces/HuggingFaceH4/constitutional-ai-demo)
+<br>
+
+| 📖       | Further readings |
+|---------|:-----------|
+
+**Anthropic blog/reports** [🔗](https://www.constitutional.ai/) 
+- Where the principles (constitution) come from: 1) Introduction to [Claude’s current constitution](https://www.anthropic.com/news/claudes-constitution); 2) [Public input](https://www.anthropic.com/news/collective-constitutional-ai-aligning-a-language-model-with-public-input) (2023)
+- [Policy highlights](https://www-cdn.anthropic.com/7512771452629584566b6303311496c262da1006/Anthropic_ConstitutionalAI_v2.pdf) (2023, Apr)
+- [Anthropic current safety research](https://www.anthropic.com/news/core-views-on-ai-safety) (2023, Mar 8)
