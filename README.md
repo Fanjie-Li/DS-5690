@@ -19,8 +19,7 @@ The major goal of this paper is to train an AI assistant that is both <ins>harml
 <br></br>
 
 > **What's Different:** Principle-Guided Self-Critique + Revision for Generating SFT Training Data
-<img width="1502" alt="critique_revision" src="https://github.com/Fanjie-Li/DS-5690/assets/36987602/ba098735-875a-41a7-a2a1-7668267b3cb3">
-
+<img width="1502" alt="critique_revision" src="https://github.com/Fanjie-Li/DS-5690/assets/36987602/91f7e2f2-d6ad-4f47-8358-092b0644d3d7">
 
 ### 2-`Reinforcement Learning Stage`
 > AI Comparison Evaluations ➔ Preference Model ➔ Reinforcement Learning
