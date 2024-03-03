@@ -16,12 +16,18 @@ The major goal of this paper is to train an AI assistant that is both <ins>harml
 ### 1-`Supervised Learning Stage`
 > Critique ➔ Revision ➔ Supervised Learning
 <img width="840" alt="SL-CAI" src="https://github.com/Fanjie-Li/DS-5690/assets/36987602/70cd09c1-8d1c-4da6-a14b-ad5a0d8dbe33">
+<br></br>
+
+> **What's Different:** Principle-Guided Self-Critique + Revision for Generating SFT Training Data
+<img width="1502" alt="critique_revision" src="https://github.com/Fanjie-Li/DS-5690/assets/36987602/ba098735-875a-41a7-a2a1-7668267b3cb3">
 
 
 ### 2-`Reinforcement Learning Stage`
 > AI Comparison Evaluations ➔ Preference Model ➔ Reinforcement Learning
 <img width="840" alt="RL-CAI" src="https://github.com/Fanjie-Li/DS-5690/assets/36987602/99bffda0-87ed-47ac-ad67-21190f77f8c8">
+<br></br>
 
+> **What's Different:** Principle-Guided AI Comparison Evaluations
 
 
 ## Critical analysis
