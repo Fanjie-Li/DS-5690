@@ -9,7 +9,7 @@ The major goal of this paper is to train an AI assistant that is both <ins>harml
 
 | Challenge | Approach |
 |---|---|
-| Tensions between helpfulness and harmlessness (alignment goals) | **Principle-guided SFT and RL** <ul><li>Steering the model's behavior with an \*explicit\* set of principles</li></ul> |
+| Alignment goals - Tensions between helpfulness and harmlessness | **Principle-guided SFT and RL** <ul><li>Steering the model's behavior with an \*explicit\* set of principles</li></ul> |
 | Human feedback is costly! | **Scalable oversight** <br>(reduce reliance on manual feedback) <ul><li>Self-correction ("post-hoc prompting")</li> <li>Reinforcement learning from AI Feedback (RLAIF)</li></ul> |
 
 ## Architecture overview
