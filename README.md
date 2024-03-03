@@ -93,14 +93,15 @@ Image ©️ 2023 Anthropic
 </details>
 
 ## Resources
+Bai, Y., Kadavath, S., Kundu, S., Askell, A., Kernion, J., Jones, A., ... & Kaplan, J. (2022). [Constitutional AI: Harmlessness from AI feedback](https://arxiv.org/pdf/2212.08073.pdf?trk=public_post_comment-text). arXiv preprint arXiv:2212.08073.
+
 | ⌨️       |Code / Demo|
 |---------|:-----------|
 
-Bai, Y., Kadavath, S., Kundu, S., Askell, A., Kernion, J., Jones, A., ... & Kaplan, J. (2022). [Constitutional AI: Harmlessness from AI feedback](https://arxiv.org/pdf/2212.08073.pdf?trk=public_post_comment-text). arXiv preprint arXiv:2212.08073.
-- Github [repo](https://github.com/anthropics/ConstitutionalHarmlessnessPaper/tree/main)
+- Github [repo](https://github.com/anthropics/ConstitutionalHarmlessnessPaper/tree/main) (Bai et al., 2022)
 - Tutorial: Using Constitutional AI in LangChain〔[YouTube](https://www.youtube.com/watch?v=uoVqNFDwpX4)〕〔[Colab](https://colab.research.google.com/drive/1fTzx5ssGstX5yX8ig8PDjNElVPfTXRPN?usp=sharing)〕〔[LangChain](https://js.langchain.com/docs/modules/chains/additional/constitutional_chain)〕
+- Tutorial: Constitutional AI with Open LLMs〔[Article](https://huggingface.co/blog/constitutional_ai)〕〔Github [repo](https://github.com/huggingface/alignment-handbook/tree/main/recipes/constitutional-ai)〕〔HuggingFace [demo](https://huggingface.co/spaces/HuggingFaceH4/constitutional-ai-demo) + models: [SFT](https://huggingface.co/HuggingFaceH4/mistral-7b-grok), [DPO](https://huggingface.co/HuggingFaceH4/mistral-7b-anthropic) + [dataset](https://huggingface.co/datasets/HuggingFaceH4/cai-conversation-harmless)〕
 - 🎥 Claude (CAI) vs ChatGPT [demo](https://www.youtube.com/watch?v=KB5r9xmrQBY)
-- HuggingFace [demo](https://huggingface.co/spaces/HuggingFaceH4/constitutional-ai-demo)
 <br>
 
 | 📖       | Further readings |
@@ -110,3 +111,4 @@ Bai, Y., Kadavath, S., Kundu, S., Askell, A., Kernion, J., Jones, A., ... & Kapl
 - Where the principles (constitution) come from: 1) Introduction to [Claude’s current constitution](https://www.anthropic.com/news/claudes-constitution); 2) [Public input](https://www.anthropic.com/news/collective-constitutional-ai-aligning-a-language-model-with-public-input) (2023)
 - [Policy highlights](https://www-cdn.anthropic.com/7512771452629584566b6303311496c262da1006/Anthropic_ConstitutionalAI_v2.pdf) (2023, Apr)
 - [Anthropic current safety research](https://www.anthropic.com/news/core-views-on-ai-safety) (2023, Mar 8)
+- 🎥 [Interview](https://ecorner.stanford.edu/clips/constitutional-ai/) w/ Daniela Amodei (president and co-founder of Anthropic)
