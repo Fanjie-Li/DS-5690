@@ -32,7 +32,7 @@ Image ©️ 2023 Anthropic
 <img width="1502" alt="self_eval" src="https://github.com/Fanjie-Li/DS-5690/assets/36987602/e64c7d92-dc0a-4ac9-bcc3-5983f159ba4c">
 
 > [!NOTE]  
-> Compared to the vanilla supervised fine-tuning (SFT) and reinforcement learning from human feedback (RLHF) (cf. InstructGPT), what are the **added values of the constitutional AI approach**? (Feel free to share any drawbacks you notice ☺)
+> Compared to the vanilla supervised fine-tuning (SFT) and reinforcement learning from human feedback (RLHF) (cf. InstructGPT), what are the **added values of the constitutional AI approach**? (Please also feel free to share any drawbacks you notice ☺)
 
 <details>
 <summary>Hint 1</summary>
