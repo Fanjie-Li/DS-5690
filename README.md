@@ -9,8 +9,8 @@ The major goal of this paper is to train an AI assistant that is both <ins>harml
 
 | Challenge | Approach |
 |---|---|
-| Tensions between helpfulness and harmlessness | **Principle-guided SFT and RL** <ul><li>Steering the model's behavior with an \*explicit\* set of principles</li></ul> |
-| Human feedback is costly! | **Scalable oversight** <br>(reduce reliance on manual feedback) <ul><li>Self-correction ("post-hoc prompting")</li> <li>Reinforcement learning from AI Feedback’ (RLAIF)</li></ul> |
+| Tensions between helpfulness and harmlessness<br>(alignment goals) | **Principle-guided SFT and RL** <ul><li>Steering the model's behavior with an \*explicit\* set of principles</li></ul> |
+| Human feedback is costly! | **Scalable oversight** <br>(reduce reliance on manual feedback) <ul><li>Self-correction ("post-hoc prompting")</li> <li>Reinforcement learning from AI Feedback (RLAIF)</li></ul> |
 
 ## Architecture overview
 ### 1-`Supervised Learning Stage`
@@ -20,6 +20,9 @@ The major goal of this paper is to train an AI assistant that is both <ins>harml
 
 ### 2-`Reinforcement Learning Stage`
 > AI Comparison Evaluations ➔ Preference Model ➔ Reinforcement Learning
+<img width="840" alt="RL-CAI" src="https://github.com/Fanjie-Li/DS-5690/assets/36987602/99bffda0-87ed-47ac-ad67-21190f77f8c8">
+
+
 
 ## Critical analysis
 
