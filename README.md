@@ -107,6 +107,10 @@ Bai, Y., Kadavath, S., Kundu, S., Askell, A., Kernion, J., Jones, A., ... & Kapl
 | 📖       | Further readings |
 |---------|:-----------|
 
+**Related approaches**
+- Yao, J., Yi, X., Wang, X., Wang, J., & Xie, X. (2023). [From Instructions to Intrinsic Human Values - A Survey of Alignment Goals for Big Models](https://arxiv.org/pdf/2308.12014). arXiv preprint arXiv:2308.12014.
+- Ji, J., Qiu, T., Chen, B., Zhang, B., Lou, H., Wang, K., ... & Gao, W. (2023). [AI alignment: A comprehensive survey](https://arxiv.org/pdf/2310.19852). arXiv preprint arXiv:2310.19852.
+
 **Anthropic blog/reports** [🔗](https://www.constitutional.ai/) 
 - Where the principles (constitution) come from: 1) Introduction to [Claude’s current constitution](https://www.anthropic.com/news/claudes-constitution); 2) [Public input](https://www.anthropic.com/news/collective-constitutional-ai-aligning-a-language-model-with-public-input) (2023)
 - [Policy highlights](https://www-cdn.anthropic.com/7512771452629584566b6303311496c262da1006/Anthropic_ConstitutionalAI_v2.pdf) (2023, Apr)
