@@ -1,4 +1,5 @@
 # Constitutional AI: Harmlessness from AI Feedback
+Presenter: Fanjie Li
 
 ## Overview
 | 🎯      | `TASK`     |  LLM Alignment |
